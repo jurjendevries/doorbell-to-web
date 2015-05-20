@@ -8,3 +8,4 @@ https://community.particle.io/t/doorbell-to-sms/3349 / https://gist.github.com/w
 https://community.particle.io/t/how-to-open-a-url-with-spark-core/2800/3
 http://docs.particle.io/core/firmware/#communication-tcpclient
 http://docs.particle.io/core/firmware/#constants-input-output-input-pullup-input-pulldown
+https://github.com/ivkos/Pushbullet-for-PHP/tree/2.10.1/src (MIT license!)
